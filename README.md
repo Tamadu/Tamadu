@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm Tamadu
+I'm Tamadu(@TTamadwu)
+father of one.
 
 <!--
 **Tamadu/Tamadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
