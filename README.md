@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I'm Tamadu(@TTamadwu)
 ### father of one.
-### Information security officer in an IT company.
+### Information security officer and corprate IT in an IT company.
 ### Thank you !
 
 <!--
