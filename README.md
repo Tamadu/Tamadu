@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 ## I'm Tamadu
 #### father of one.
 #### Information security officer and corprate IT in an IT company.
