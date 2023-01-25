@@ -1,9 +1,9 @@
-# Hi there 👋
-## I'm Tamadu
-#### father of one.
-#### Information security officer and corprate IT in an IT company.
-#### Twitter@TTamadwu
-#### Thank you !
+### Hi there 👋
+### I'm Tamadu
+##### father of one.
+##### Information security officer and corprate IT in an IT company.
+##### Twitter@TTamadwu
+##### Thank you !
 
 <!--
 **Tamadu/Tamadu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
