@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I'm Tamadu(Twitter@TTamadwu)
+## I'm Tamadu(Twitter@TTamadwu)
 #### father of one.
 #### Information security officer and corprate IT in an IT company.
 
