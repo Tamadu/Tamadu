@@ -2,7 +2,8 @@
 ## I'm Tamadu. / Twitter [@TTamadwu](https://twitter.com/TTamadwu) / [Profile](tamadu.wraptas.site)
 #### father of one.:family_man_woman_boy:
 
-> 2022 / 12    ITパスポート
+> 2022 / 12    
+   - ITパスポート
 
 > 2022 / 9     AWS Certified Cloud Practitioner
 
