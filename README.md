@@ -5,8 +5,10 @@
 > 2022 / 12    
  - ITパスポート
 
-> 2022 / 9     AWS Certified Cloud Practitioner
+> 2022 / 9    
+ - AWS Certified Cloud Practitioner
 
-> 2022 / 5     .com Master Basic
+> 2022 / 5     
+ - .com Master Basic
 
 
