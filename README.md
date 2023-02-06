@@ -3,7 +3,7 @@
 #### father of one.:family_man_woman_boy:
 
 > 2022 / 12    
-   - ITパスポート
+ - ITパスポート
 
 > 2022 / 9     AWS Certified Cloud Practitioner
 
