@@ -4,17 +4,10 @@
 
 
 ### Qualification / 資格
-
-> 2023 / 1    
+ 
  - 情報セキュリティマネジメント試験
-
-> 2022 / 12    
  - ITパスポート試験
-
-> 2022 / 9    
  - AWS Certified Cloud Practitioner
-
-> 2022 / 5     
  - .com Master Basic
 
 > 2018 / 11     
