@@ -5,7 +5,7 @@
 
 ### Qualification / 資格
  
- - 情報セキュリティマネジメント試験
+ - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験
  - AWS Certified Cloud Practitioner
  - .com Master Basic
