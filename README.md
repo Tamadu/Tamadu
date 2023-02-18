@@ -2,8 +2,9 @@
 ### I'm Tamadu. / Twitter [@TTamadwu](https://twitter.com/TTamadwu) / [Profile](tamadu.wraptas.site)
 #### Father of one.:family_man_woman_boy: / CorporateIT & InformationSecurityOfficer
 
+### Career
 
-### Qualification / 資格
+### Qualification
  
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験
@@ -14,3 +15,5 @@
  - ファイナンシャル・プランニング技能士3級（個人資産相談業務）
  - 環境社会試験（eco検定）
  - 普通自動車免許 (第一種)
+ 
+ 
