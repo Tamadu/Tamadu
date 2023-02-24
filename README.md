@@ -6,7 +6,7 @@
 ### Qualification
  
  - 情報セキュリティマネジメント試験(FG)
- - ITパスポート試験_Information Technology Passport Examination
+ - ITパスポート試験(IP)
  - AWS Certified Cloud Practitioner
  - .com Master Basic
  - 会員内部管理責任者
