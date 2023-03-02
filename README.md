@@ -4,7 +4,6 @@
 
 
 ### Qualification
- 
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験(IP)
  - AWS Certified Cloud Practitioner
@@ -14,4 +13,5 @@
  - ファイナンシャル・プランニング技能士3級(個人資産相談業務)
  - 環境社会試験(eco検定)
  - 普通自動車免許(第一種)
+ 
  
