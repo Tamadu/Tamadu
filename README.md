@@ -3,7 +3,7 @@
 ### Father of one.:family_man_woman_boy: / CorporateIT:computer:, InformationSecurityOfficer:lock:.
 
 ### Career
-
+ - Bank -> RealEstateBrokerage -> SaaS
 ### Qualification
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験(IP)
