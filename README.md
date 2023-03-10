@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I'm Tamadu. / Twitter[@TTamadwu](https://twitter.com/TTamadwu) / [Profile](https://tamadu.wraptas.site/)
+### BIO.LINK[tamadu](https://bio.link/tamadu)
 ### Father of one.:family_man_woman_boy: / CorporateIT:computer:, InformationSecurityOfficer:lock:.
 
 ### Career
