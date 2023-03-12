@@ -4,7 +4,7 @@
 
 ### Career
  - Bank -> RealEstateBrokerage -> SaaS
-### Qualification
+### Qualification / 資格
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験(IP)
  - AWS Certified Cloud Practitioner
