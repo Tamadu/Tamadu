@@ -5,12 +5,12 @@
 ### Career / 経歴
  - Bank -> RealEstateBrokerage -> SaaS
 ### Qualification / 資格
-### IPA
+#### IPA
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験(IP)
-### AWS
+#### AWS
  - AWS Certified Cloud Practitioner
-### Others
+#### Others
  - .com Master Basic
  - 会員内部管理責任者
  - 一種証券外務員 
