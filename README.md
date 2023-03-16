@@ -5,7 +5,7 @@
 ### Career / 経歴
  - Bank -> RealEstateBrokerage -> SaaS
 ### Qualification / 資格
-#### IPA
+### IPA
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験(IP)
 ### AWS
