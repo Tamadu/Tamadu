@@ -10,8 +10,9 @@
  - ITパスポート試験(IP)
 #### AWS
  - AWS Certified Cloud Practitioner
+#### NTT　Communications
+ -.com Master Basic
 #### Others
- - .com Master Basic
  - 会員内部管理責任者
  - 一種証券外務員 
  - ファイナンシャル・プランニング技能士3級(個人資産相談業務)
