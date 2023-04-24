@@ -13,6 +13,7 @@
 #### NTTCommunications
  - .com Master Basic
 #### Others
+ - Slack Certified Admin
  - 会員内部管理責任者
  - 一種証券外務員 
  - ファイナンシャル・プランニング技能士3級(個人資産相談業務)
