@@ -5,14 +5,10 @@
 ### Career / 経歴
  - Bank -> RealEstateBrokerage -> SaaS
 ### Qualification / 資格
-
  - 情報セキュリティマネジメント試験(FG)
  - ITパスポート試験(IP)
-
  - AWS Certified Cloud Practitioner
-
  - .com Master Basic
-
  - Slack Certified Admin
  - 会員内部管理責任者
  - 一種証券外務員 
