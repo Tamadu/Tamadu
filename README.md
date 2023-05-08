@@ -10,7 +10,7 @@
  - ITパスポート試験(IP)
 #### AWS
  - AWS Certified Cloud Practitioner
-#### Others(IT)
+#### Others（IT）
  - .com Master Basic
  - Slack Certified Admin
  - SmartHRマスター BEGINNER
