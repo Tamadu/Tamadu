@@ -14,6 +14,7 @@
  - .com Master Basic
  - Slack Certified Admin
  - SmartHRマスター BEGINNER
+ - SPREAD情報セキュリティサポーター能力検定
 #### Others
  - 会員内部管理責任者
  - 一種証券外務員 
