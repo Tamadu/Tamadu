@@ -15,6 +15,7 @@
  - Slack Certified Admin
  - SmartHRマスター BEGINNER
  - SPREAD情報セキュリティサポーター能力検定
+ - Autify認定プログラム-テスト自動化
 #### Others
  - 会員内部管理責任者
  - 一種証券外務員 
