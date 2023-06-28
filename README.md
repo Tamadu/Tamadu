@@ -3,7 +3,7 @@
 ### Father of one.:family_man_woman_boy: / CorporateIT:computer: , InformationSecurityOfficer:lock:.
 
 ### Career / 経歴
- - Bank => RealEstateBrokerage => SaaS
+ - Bank -> RealEstateBrokerage -> SaaS
 ### Qualification / 資格
 #### IPA
  - 情報セキュリティマネジメント試験(FG)
