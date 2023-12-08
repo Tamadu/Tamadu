@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Tamadu. / X[@TTamadwu](https://twitter.com/TTamadwu) / [Profile](https://tamadu.wraptas.site/) / [BIO.LINK](https://bio.link/tamadu)
-### Father of one.:family_man_woman_boy: / CorporateIT:computer: , InformationSecurityOfficer:lock:.
+### Father of one./ CorporateIT,InformationSecurityOfficer.
 
 ### Career / 経歴
  - Bank -> RealEstateBrokerage -> SaaS
