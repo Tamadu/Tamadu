@@ -3,7 +3,7 @@
 ### Father of one./ CorporateIT,InformationSecurityOfficer.
 
 ### Career / 経歴
- - Bank -> RealEstateBrokerage -> SaaS -> SaaS
+ - Bank -> RealEstateBrokerage -> Vertical　SaaS -> SaaS
 ### Qualification / 資格
 #### IPA
  - 情報セキュリティマネジメント試験(FG)
