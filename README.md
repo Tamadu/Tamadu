@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Tamadu. / [Profile](https://tamadu.wraptas.site/) 
+### I'm Tamadu. / [Profile](https://www.ttamadwu.com/) 
 ### Father of one./ CorporateIT,InformationSecurityOfficer.
 
 ### Career / 経歴
