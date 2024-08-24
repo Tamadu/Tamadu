@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### I'm Tamadu. / [Profile](https://www.ttamadwu.com/) 
-### Father of two children./ CorporateIT,InformationSecurityOfficer.
+### Father of two children./ CorporateIT　&　Security.
 
 ### Career / 経歴
  - Bank -> RealEstateBrokerage -> VerticalSaaS -> SaaS
