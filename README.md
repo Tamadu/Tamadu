@@ -13,7 +13,6 @@
 #### Others（IT）
  - .com Master Basic
  - Slack Certified Admin
- - SmartHRマスター BEGINNER
  - SPREAD情報セキュリティサポーター能力検定
  - SPREAD情報セキュリティマイスター能力検定
  - Autify認定プログラム-テスト自動化
